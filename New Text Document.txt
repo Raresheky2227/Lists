@@ -1,0 +1,1 @@
+calop de memorie, adaugi normal in el, nu iti pasa cand scoti, cand e full mai intai verifici care pozitii sunt goale si refaci calopul, daca si asa ramane full dublezi marimea calopului
